@@ -1,4 +1,4 @@
-### Subscriber 1.0 beta for Typecho 0.9
+### Subscriber plugin for Typecho
 
 计划正式版分离action实现订阅权限细分等功能
 
